@@ -94,13 +94,4 @@ body {
     margin-bottom: 60px;
    
 }
-@media (max-width: 767px)
-.visible-xs {
-    display: block!important;
-}
-@media (min-width: 768px)
-.navbar-toggle {
-     display: none; 
-}
 
-/** END HOME PAGE **/
